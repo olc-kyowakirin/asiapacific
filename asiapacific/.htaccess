@@ -1,0 +1,4 @@
+RewriteEngine On
+RewriteRule ^about_us/(.*)$ /asiapacific/who_we_are/$1 [R=302,NC,L]
+RewriteRule ^products/(.*)$ /asiapacific/our_medicines/$1 [R=302,NC,L]
+RewriteRule ^contact_info/(.*)$ /asiapacific/contact_us/$1 [R=302,NC,L]

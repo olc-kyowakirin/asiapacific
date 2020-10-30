@@ -803,6 +803,10 @@ img {
   max-width: 100%;
   height: auto;
 }
+.str-section-wrapper.whatwedo-01 .area-focus-icon img.sp-hide {
+  max-width: none !important;
+}
+xx.str-section-wrapper.homepage-03 .area-focus-wrapper { max-width: 1100px !important; }
 
 textarea {
   resize: vertical;

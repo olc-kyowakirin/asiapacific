@@ -1376,6 +1376,7 @@ ol.showlist li ol{
   width: 15px;
   height: 15px;
 }
+.footer-link a img.icon-small { height:13px; width:13px; }
 .footer-area-sub a.btn-03.btn-small span{
     font-size:1.2rem;
 }

@@ -12604,7 +12604,7 @@ footer .footer-area-sub p.footer-copy {
   padding-bottom: 250px;
   margin-bottom: -300px
 }
-.box-singaporearea .box-inner .box-panel .panel .box-text{
+.box-singaporearea-page .box-inner .box-panel .panel .box-text{
   font-size: 2rem;
 }
 }
@@ -12614,6 +12614,12 @@ footer .footer-area-sub p.footer-copy {
   width: 100%;
 }
 .box-singaporearea .box-inner .box-panel .panel .title > .sub {
+    color: #ea5504;
+    display: block;
+    margin-bottom: 20px;
+    }
+
+.box-singaporearea-page .box-inner .box-panel .panel .title > .sub {
     color: #ea5504;
     display: block;
     margin-bottom: 20px;
@@ -12726,7 +12732,7 @@ footer .footer-area-sub p.footer-copy {
 .box-singaporearea  .box-inner .box-panel .panel{
   box-shadow: none;
 }
-.box-singaporearea .box-inner .box-panel .panel .box-text{
+.box-singaporearea-page .box-inner .box-panel .panel .box-text{
   line-height: 1.5em;
 }
 .box-singaporearea .box-inner .box-panel .panel .title {

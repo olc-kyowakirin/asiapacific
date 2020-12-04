@@ -10261,7 +10261,7 @@ padding-top:20px;
     order: 6;
   }
   .footer .footer-link > li:nth-of-type(10) {
-    order: 8;
+    order: 9;
   }
   .footer .footer-link > li:nth-of-type(11) {
     order: 10;
@@ -13131,7 +13131,12 @@ footer .footer-area-sub p.footer-copy {
       font-size: calc(3.2rem/2) !important;
       line-height: 1.4 !important;
     }
+    footer .footer-area-sub p.footer-copy {
+      font-size:1.4rem !important;
+    }
 }
+.str-section-wrapper.news-01 .box-panel-01.col3 .panel{ overflow: hidden; }
+
 /* ========================================================================= */
 
 /* CONTACT US MAP LINKS */

@@ -1,7 +1,7 @@
 <partial src="../includes/header-start.html"/>
-<title>Our Medicines - Kyowa Kirin</title>
+<title>Our Medicines - Kyowa Kirin Asia Pacific</title>
 <meta name="description" content="Kyowa Kirin has an advanced research and development system that displays innovation in drug discovery using cutting-edge biotechnology in antibody engineering technology.">
-<meta property="og:title" content="Our Medicines - Kyowa Kirin">
+<meta property="og:title" content="Our Medicines - Kyowa Kirin Asia Pacific">
 <meta property="og:description" content="Kyowa Kirin has an advanced research and development system that displays innovation in drug discovery using cutting-edge biotechnology in antibody engineering technology.">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/asiapacific/our_medicines/index.html">
@@ -243,7 +243,7 @@
     <div class="box-content">
     <h3 class="hdg-lv2-05">Romiplate®</h3>
     <div class="box-text">
-    <p>Romiplate®, (romiplostim) a genetically recombinant protein, stimulates platelet production via stimulation of the thrombopoietin receptors. </p>
+    <p>Romiplate® (romiplostim) is a genetically recombinant protein, stimulates platelet production via stimulation of the thrombopoietin receptors. </p>
     <!-- /.box-text --></div>
     <!-- content --></div>
     <div class="box-image">

@@ -1,7 +1,7 @@
 <partial src="../includes/header-start.html"/>
-<title>Who we are - Kyowa Kirin</title>
+<title>Who we are - Kyowa Kirin Asia Pacific</title>
 <meta name="description" content="We at Kyowa Kirin Asia Pacific are dedicated towards our patient health and wellbeing worldwide. We leverage on innovative drug discovery and global commercialisation, driven by state of-the-art antibody technologies mainly in the core therapeutic areas of Oncology, Nephrology, Immunology & Allergy, and Central Nervous System.">
-<meta property="og:title" content="Who we are - Kyowa Kirin">
+<meta property="og:title" content="Who we are - Kyowa Kirin Asia Pacific">
 <meta property="og:description" content="We at Kyowa Kirin Asia Pacific are dedicated towards our patient health and wellbeing worldwide. We leverage on innovative drug discovery and global commercialisation, driven by state of-the-art antibody technologies mainly in the core therapeutic areas of Oncology, Nephrology, Immunology & Allergy, and Central Nervous System.">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/asiapacific/who_we_are/index.html">

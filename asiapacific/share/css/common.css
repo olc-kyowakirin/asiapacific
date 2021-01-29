@@ -721,7 +721,7 @@ template {
   background-repeat: no-repeat;
   position: fixed;
 }
-@media only screen and (max-width: 748px) {
+@media only screen and (max-width: 1024px) {
   .media-header{
     background-image: url('/asiapacific/images/index_bg_media_01_sp.jpg') !important;
   }
@@ -1574,6 +1574,10 @@ main.type-01 + footer {
   color: #fff;
   line-height:1.2em;
   margin-bottom:1em;
+}
+
+@media only screen and (max-width: 768px) {
+  .str-section-wrapper.media-03 .hdg-lv2-05 { font-size: calc(3.2rem/2) !important; }
 }
 @media only screen and (min-width: 991px) {
 .box-hdg-wrapper .hdg-lv1-04{

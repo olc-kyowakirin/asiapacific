@@ -7,6 +7,7 @@
 <link rel="canonical" href="https://www.kyowakirin.com/asiapacific/working_with_us/index.html">
 <partial src="../includes/header-end.html"/>
 
+
 <div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual working-with-us-header">
 <div class="image">
 <img src="/asiapacific/images/index_bg_mainsection_01.png" alt="">
@@ -108,7 +109,7 @@
 <!-- /.box-text --></div><br>
 <div class="box-layout-btn btn-center" data-column-sp="0">
 <div class="box-text text-center">
-<a href="https://www.linkedin.com/company/kyowakirinasiapacific/jobs/?viewAsMember=true" target="_blank" class="btn-olc-small-size btn-grey-orange"><span>View our Job openings on LinkedIn</span></a>
+<a href="https://www.linkedin.com/careersite/kyowakirinasiapacific" target="_blank" class="btn-olc-small-size btn-grey-orange"><span>View our job openings</span></a>
 </div>
 <!-- /.box-layout-btn --></div>
 <!-- /.box-hdg2-wrapper --></div>

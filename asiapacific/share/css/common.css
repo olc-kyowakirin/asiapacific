@@ -721,6 +721,11 @@ template {
   background-repeat: no-repeat;
   position: fixed;
 }
+@media only screen and (max-width: 748px) {
+  .media-header{
+    background-image: url('/asiapacific/images/index_bg_media_01_sp.jpg') !important;
+  }
+}
 .working-with-us-header{
   background-image: url('/asiapacific/images/index_bg_working-with-us_01.jpg');
   background-size: cover;
@@ -1988,7 +1993,7 @@ a img.icon-pdf {
   top: 1px;
   right: 0;
   display: block;
-  width: 15px;
+  /*width: 15px;*/
   height: auto;
 }
 
@@ -10197,7 +10202,7 @@ padding-top:20px;
     display:none;
   }
   .header > .header-inner .logo{
-    padding-top: 10px;
+    padding-top: 5px;
   }
   .header > .header-inner .logo img:nth-child(2){
     margin-top:-10px;
@@ -11961,8 +11966,8 @@ padding-top:20px;
 }
 
 @media screen and (max-width: 769px) {
-  a img.icon-pdf,
-  a img.icon-blank {
+  a img.icon-pdfxx,
+  a img.icon-blankxx {
     width: 18px;
     height: 18px;
   }

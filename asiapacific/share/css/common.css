@@ -714,6 +714,13 @@ template {
   background-repeat: no-repeat;
   position: fixed;
 }
+.media-header{
+  background-image: url('/asiapacific/images/index_bg_media_01.jpg');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  position: fixed;
+}
 .working-with-us-header{
   background-image: url('/asiapacific/images/index_bg_working-with-us_01.jpg');
   background-size: cover;
@@ -1993,7 +2000,7 @@ a img.icon-pdf {
   opacity: 0;
 }
 
-.box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date [class="icon-blank"] {
+xx.box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date [class="icon-blank"] {
   background: url("../images/icon_link_blank_10.png") left center/23px no-repeat;
 }
 
@@ -8308,9 +8315,11 @@ padding-top:20px;
     padding-right: 26px;
   }
   .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date [class^="icon-"] {
-    top: -4px;
-    width: 23px;
-    height: 23px;
+    top: -5px;
+    right:-5px;
+    width: 24px;
+    height: 24px;
+
   }
   .btn-01.btn-small,
   .btn-small.btn-back {
@@ -13137,6 +13146,19 @@ footer .footer-area-sub p.footer-copy {
     }
 }
 .str-section-wrapper.news-01 .box-panel-01.col3 .panel{ overflow: hidden; }
+
+.str-section-wrapper.media-03 .box-panel-01 > .panel { color: #ffffff; border-bottom: 0px !important; }
+.str-section-wrapper.media-03 .box-panel-01 > .panel > .box-inner { background-color:#ea5504; }
+.str-section-wrapper.media-03 .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date{ color:#ffffff; }
+.str-section-wrapper.media-03 .box-panel-01 > .panel:not(.type-02) > .box-inner .box-content{ padding-bottom: 75px; }
+@media only screen and (min-width: 769px) {
+.box-panel-01.col2.col21 > .panel:first-child { width: 66%;  }
+.box-panel-01.col2.col21 > .panel:last-child { width: calc(34% - 20px); }
+}
+.str-section-wrapper.media-03 .box-panel-01.col2.col21 > .panel:first-child > .box-inner{ background-color: #1ba8d6 !important;  }
+.str-section-wrapper.media-03 .box-panel-01 .panel .box-thumb img { height:100%; width:100%; }
+.str-section-wrapper.media-03 .box-panel-01 .panel .btn-olc-small-size{ padding: 0px !important; }
+
 
 /* ========================================================================= */
 

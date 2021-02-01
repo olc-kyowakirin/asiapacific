@@ -8,7 +8,7 @@
 <partial src="../includes/header-end.html"/>
 
 <div class="box-hdg-wrapper type-05 kkc-anime_load_other-mainvisual contact-us-01">
-
+<br class="sp-hide"><br class="sp-hide">
 <div class="box-hdg-container">
 <div class="box-content-left">
 <h1 class="hdg-lv1-02">Asia Pacific network</h1>

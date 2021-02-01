@@ -66,13 +66,14 @@
   <!-- /.str-section --></div>
   <!-- /.str-section-wrapper --></div>
 
-  <div class="str-section-wrapper olc-button-section homepage-04">
+  <div class="str-section-wrapper olc-button-section">
+  <div class="str-section str-section-boxed-800px str-section-spacing ">
   <div class="box-button-olc">
   <div class="box-hdg2-wrapper">
-    <br>
-  <a href="https://www.kyowakirin.com/media_center/index.html" class="btn-olc-small-size btn-orange-grey"><span>View Global News</span></a>
+  <a href="https://www.kyowakirin.com/media_center/index.html" class="btn-olc-small-size  btn-grey-orange"><span>View Global News</span></a>
   <!-- /.box-hdg2-wrapper --></div>
   <!-- /.box-who-we-are-button --></div>
+  <!-- /.str-section --></div>
   <!-- /.str-section-wrapper --></div>
 
 

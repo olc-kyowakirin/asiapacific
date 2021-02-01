@@ -1577,7 +1577,11 @@ main.type-01 + footer {
 }
 
 @media only screen and (max-width: 768px) {
-  .str-section-wrapper.media-03 .hdg-lv2-05 { font-size: 1.7rem !important; }
+  .str-section-wrapper.media-03 .hdg-lv2-05 { font-size: 1.6em !important; line-height: 1.4em !important; }
+  .str-section-wrapper.media-03 .box-date em { font-weight: normal !important; }
+  .str-section-wrapper.media-03 .box-date{ bottom: 20px !important; width: calc(100% - 40px) !important; }
+  .str-section-wrapper.media-03 .box-content{ padding: 20px 20px 75px 20px !important; }
+  .str-section-wrapper.media-03 .box-date [class^="icon-"] { top: -7px !important; }
 }
 @media only screen and (min-width: 991px) {
 .box-hdg-wrapper .hdg-lv1-04{
@@ -1775,8 +1779,8 @@ a img.icon-blank {
   position: relative;
   top: .3125em;
   display: inline-block;
-  width: 1.375em;
-  height: 1.375em;
+  width: 24px;
+  height: 24px;
   margin-left: 5px;
 }
 

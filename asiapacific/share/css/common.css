@@ -13180,14 +13180,15 @@ footer .footer-area-sub p.footer-copy {
 .map-area .map-image {position:unset !important;}
 .map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index: 2;}
 
-.map-area .map-link-ko { left: 62.5%; top:  5.4%; }
-.map-area .map-link-ch { left: 58.3%; top: 10.8%; }
-.map-area .map-link-tw { left: 59.5%; top: 17.0%; }
-.map-area .map-link-kk { left: 53.4%; top: 20.1%; }
-.map-area .map-link-th { left: 45.9%; top: 28.4%; }
-.map-area .map-link-my { left: 47.0%; top: 36.1%; }
-.map-area .map-link-sg { left: 49.0%; top: 41.0%; }
-.map-area .map-link-au { left: 77.8%; top: 80.0%; }
+.map-area .map-link-ko {left: 61%;top: 4.6%;}
+.map-area .map-link-ch {left: 58.3%;top: 10.8%;}
+.map-area .map-link-tw {left: 59.8%;top: 19.8%;}
+.map-area .map-link-kk {left: 54.1%;top: 21.8%;}
+.map-area .map-link-th {left: 46.6%;top: 31.4%;}
+.map-area .map-link-my {left: 47.0%;top: 40.1%;}
+.map-area .map-link-sg {left: 49.4%;top: 43.7%;}
+.map-area .map-link-au {left: 78%;top: 81.3%;}
+
 .contact-us-01 .box-hdg-container { pointer-events: none;}
 .contact-us-01 .box-hdg-container a { pointer-events:all;}
 .map-popup.box-modal-outbound{}

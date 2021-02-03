@@ -55,7 +55,7 @@
   <div class="box-sub-content box-sub-content-1">
   <h4 class="title">Address in operation</h4>
   <p class="box-text">80 Robinson Road<br>#22-01/01A<br>Singapore 068898</p>
-  <p class="box-text">Phone: +65 6836 3991<br>Fax: +65 6836 3928<br>E-mail: <a href="mailto:Info-KKAP@kyowakirin.com" target="_blank"> Info-KKAP@kyowakirin.com</a></p>
+  <p class="box-text">Phone: +65 6836 3991<br>Fax: +65 6836 3928<br>E-mail: <a class="email-link" href="mailto:Info-KKAP@kyowakirin.com" target="_blank"> Info-KKAP@kyowakirin.com</a></p>
   <!-- /.box-sub-content --></div>
   <div class="box-sub-content">
   <h4 class="title">Distributor: Steward Cross Pte Ltd</h4>

@@ -921,7 +921,7 @@ a {
   text-decoration: none;
   color: #1ba8d6;
 }
-
+a.email-link { color: #ea5504;}
 /* ============================================================================
  * _structure = ['.str-', '.nav-', '.site-']
  * ========================================================================= */
@@ -5464,8 +5464,8 @@ div#message-president .box-image{
 
 .box-corevalue-top .box-corevalue-wrapper .parts-innovation {
   right: 1.33333vw;
-  bottom: -5.46667vw;
-  width: 63.86667vw;
+  bottom: 1vw;
+  width: 65vw;
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-innovation .parts-feature-before.minimum ~ .parts-feature-after {
@@ -5481,9 +5481,9 @@ div#message-president .box-image{
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-integrity {
-  bottom: -52.66667vw;
+  bottom: -37vw;
   left: 0;
-  width: 53.73333vw;
+  width: 65vw;
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-integrity .parts-feature-before.minimum ~ .parts-feature-after {
@@ -5501,8 +5501,8 @@ div#message-president .box-image{
 
 .box-corevalue-top .box-corevalue-wrapper .parts-temwork {
   right: 0;
-  bottom: -97.6vw;
-  width: 60.66667vw;
+  bottom: -91vw;
+  width: 65vw;
 }
 
 .box-corevalue-top .box-corevalue-wrapper .parts-temwork .parts-feature-before.minimum ~ .parts-feature-after {
@@ -13180,13 +13180,13 @@ footer .footer-area-sub p.footer-copy {
 .map-area .map-image {position:unset !important;}
 .map-area .map-link { position: absolute; width: 2.9%; height: 4.55%; z-index: 2;}
 
-.map-area .map-link-ko {left: 61%;top: 4.6%;}
-.map-area .map-link-ch {left: 58.3%;top: 10.8%;}
-.map-area .map-link-tw {left: 59.8%;top: 19.8%;}
-.map-area .map-link-kk {left: 54.1%;top: 21.8%;}
+.map-area .map-link-ko {left: 61.7%;top: 6.2%;}
+.map-area .map-link-ch {left: 58.5%;top: 11.1%;}
+.map-area .map-link-tw {left: 59.9%;top: 19.8%;}
+.map-area .map-link-kk {left: 54.1%;top: 22.0%;}
 .map-area .map-link-th {left: 46.6%;top: 31.4%;}
-.map-area .map-link-my {left: 47.0%;top: 40.1%;}
-.map-area .map-link-sg {left: 49.4%;top: 43.7%;}
+.map-area .map-link-my {left: 47.0%;top: 40.8%;}
+.map-area .map-link-sg {left: 49.4%;top: 43.0%;}
 .map-area .map-link-au {left: 78%;top: 81.3%;}
 
 .contact-us-01 .box-hdg-container { pointer-events: none;}

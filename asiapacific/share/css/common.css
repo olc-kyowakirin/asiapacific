@@ -755,6 +755,12 @@ template {
   background-position: top center;
   background-repeat: no-repeat;
 }
+.str-section-wrapper.str-section-orange-bg{
+  background-image: url('/asiapacific/images/index_bg_section-orange_01.png');
+  background-size: cover;
+  background-position: top center;
+  background-repeat: no-repeat;
+}
 .str-section-wrapper.homepage-03,
 .box-atagrance-top{
   margin-top: 80px;
@@ -12366,7 +12372,8 @@ padding-top:20px;
 
 
 .str-section-wrapper.str-section-blue-bg,
-.str-section-wrapper.str-section-pink-bg {
+.str-section-wrapper.str-section-pink-bg,
+.str-section-wrapper.str-section-orange-bg {
     padding: 80px 0 50px 0;
 }
 .str-section-wrapper.homepage-03 .area-focus-wrapper {

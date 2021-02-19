@@ -27,7 +27,7 @@
 <h2 class="hdg-lv2-03">Asia Pacific News</h2>
 <!-- /.box-hdg2-wrapper --></div>
 <div class="box-panel-01 col3 sp-col1">
-<a href="https://www.kyowa-kirin.com.cn/en/kyowa-kirin-and-winhealth-pharma-group-establishes-strategic-cooperation-on-nesp/" class="panel">
+<a target="_blank" href="https://www.kyowa-kirin.com.cn/en/kyowa-kirin-and-winhealth-pharma-group-establishes-strategic-cooperation-on-nesp/" class="panel"  >
 <div class="box-inner">
 <div class="box-content">
 <h3 class="hdg-lv2-05">Kyowa Kirin and Winhealth Pharma Group establish strategic cooperation on NESP® (darbepoetin α Injection)</h3>
@@ -64,7 +64,7 @@
 <div class="str-section str-section-boxed-800px str-section-spacing ">
 <div class="box-button-olc">
 <div class="box-hdg2-wrapper">
-<a href="https://www.kyowakirin.com/media_center/index.html" class="btn-olc-small-size  btn-grey-orange"><span>View Global News</span></a>
+<a target="_blank" href="https://www.kyowakirin.com/media_center/index.html" class="btn-olc-small-size  btn-grey-orange"><span>View Global News</span></a>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.box-who-we-are-button --></div>
 <!-- /.str-section --></div>

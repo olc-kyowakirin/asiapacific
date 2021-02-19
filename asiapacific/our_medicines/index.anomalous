@@ -9,7 +9,7 @@
 
 <div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual our-medicines-header">
 <div class="image">
-<img src="/asiapacific/images/index_bg_mainsection_01.png" alt="">
+<img src="/asiapacific/images/index_bg_mainsection_01.png" alt="Our Medicines">
 <!-- /.image --></div>
 <!-- /.image --></div>
 <div class="str-section-wrapper first-section our-medicines-01">
@@ -33,19 +33,15 @@
 <!-- /.area-focus-inner --></div>
 <div class="area-focus-icon icon-01 kkc-anime_scroll_focus-icon_trigger kkc-anime_trigger_focus-icon_item kkc-anime_state_show kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger="focus-icon1" data-trigger-name="focus-icon1">
 <img src="/asiapacific/our_medicines/images/index_img_parts_01.png" class="sp-hide" alt="Nephrology">
-<!--<img src="/asiapacific/our_medicines/images/index_img_parts_01_sp.png" class="pc-hide" alt="Nephrology">-->
 </div>
 <div class="area-focus-icon icon-02 kkc-anime_trigger_focus-icon_item kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger-name="focus-icon1">
 <img src="/asiapacific/our_medicines/images/index_img_parts_02.png" class="sp-hide" alt="Immunology &amp; Allergy">
-<!--<img src="/asiapacific/our_medicines/images/index_img_parts_02_sp.png" class="pc-hide" alt="Immunology &amp; Allergy">-->
 </div>
 <div class="area-focus-icon icon-03 kkc-anime_scroll_focus-icon_trigger kkc-anime_trigger_focus-icon_item kkc-anime_state_show kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger="focus-icon2" data-trigger-name="focus-icon2">
 <img src="/asiapacific/our_medicines/images/index_img_parts_03.png" class="sp-hide" alt="Oncology">
-<!--<img src="/asiapacific/our_medicines/images/index_img_parts_03_sp.png" class="pc-hide" alt="Oncology">-->
 </div>
 <div class="area-focus-icon icon-04 kkc-anime_trigger_focus-icon_item kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger-name="focus-icon2">
 <img src="/asiapacific/our_medicines/images/index_img_parts_04.png" class="sp-hide" alt="Central Nervous System">
-<!--<img src="/asiapacific/our_medicines/images/index_img_parts_04_sp.png" class="pc-hide" alt="Central Nervous System">-->
 </div>
 <div class="area-focus-icon icon-all kkc-anime_scroll_focus-icon_trigger kkc-anime_trigger_focus-icon_item kkc-anime_state_show kkc-anime_state_ignition kkc-anime_state_animation-end" data-trigger="focus-icon-all" data-trigger-name="focus-icon-all">
 <img src="/asiapacific/our_medicines/images/index_img_parts_all_sp.png" class="pc-hide" alt="Nephrology">
@@ -78,7 +74,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_01.jpg" alt="">
+<img src="images/index_img_01.jpg" alt="Next Generation Therapeutic Antibodies">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -89,7 +85,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_02.jpg" alt="">
+<img src="images/index_img_02.jpg" alt="New Type of small molecular drugs">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -100,7 +96,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_03.jpg" alt="">
+<img src="images/index_img_03.jpg" alt="Nucleic acid drugs">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -111,7 +107,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_04.jpg" alt="">
+<img src="images/index_img_04.jpg" alt="Regenerative therapeutics">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <!-- /.box-hdg2-wrapper --></div>
@@ -142,7 +138,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_slide_crysvita.jpg" alt="">
+<img src="images/index_img_slide_crysvita.jpg" alt="CRYSVITA®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -155,7 +151,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_slide_gran.jpg" alt="">
+<img src="images/index_img_slide_gran.jpg" alt="GRAN®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -169,7 +165,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_slide_lumicef.jpg" alt="">
+<img src="images/index_img_slide_lumicef.jpg" alt="LUMICEF®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -180,7 +176,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_slide_espo.jpg" alt="">
+<img src="images/index_img_slide_espo.jpg" alt="NESP®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -191,7 +187,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_slide_poteligeo.jpg" alt="">
+<img src="images/index_img_slide_poteligeo.jpg" alt="POTELIGEO®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -202,7 +198,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_slide_regpara.jpg" alt="">
+<img src="images/index_img_slide_regpara.jpg" alt="REGPARA®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <div class="box-layout-image layout-left box-layout-image-post-list">
@@ -213,7 +209,7 @@
 <!-- /.box-text --></div>
 <!-- content --></div>
 <div class="box-image">
-<img src="images/index_img_slide_romiplate.jpg" alt="">
+<img src="images/index_img_slide_romiplate.jpg" alt="Romiplate®">
 <!-- image --></div>
 <!-- /.box-layout-image --></div>
 <p>Disclaimer: This page features main products from Kyowa Kirin’s portfolio in Asia Pacific, and may not be available in all countries, or may be approved for different indications, in different dosages, or in different strengths.  In general, those products are available only by prescription through local healthcare professionals.</p>

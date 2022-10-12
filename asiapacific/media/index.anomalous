@@ -8,6 +8,7 @@
 <style> .header, .wrapper, .footer  {  background-color: #f6f6f6; } </style>
 <partial src="../includes/header-end.html"/>
 
+
 <div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual media-header">
 <div class="image">
 <img src="/asiapacific/images/index_bg_mainsection_01.png" alt="">

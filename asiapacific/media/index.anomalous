@@ -5,7 +5,7 @@
 <meta property="og:description" content="Discover our common purpose that binds our diversity and culture together as a business entity and carve our authentic path towards becoming a Global Specialty Pharmaceutical company in the region.">
 <partial src="../includes/header-title.html"/>
 <link rel="canonical" href="https://www.kyowakirin.com/asiapacific/media/index.html">
-<style> .header, .wrapper, .footer  {  background-color: #f6f6f6; } </style>
+<style> .header, .footer  {  background-color: #f6f6f6; } </style>
 <partial src="../includes/header-end.html"/>
 
 

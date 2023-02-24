@@ -1374,7 +1374,7 @@ main.type-01 + footer {
 }
 .box-hdg2-wrapper .hdg-lv2-03,
 .box-hdg2-wrapper .hdg-lv2-04,
-.box-hdg2-wrapper .hdg-lv2-0{
+.box-hdg2-wrapper .hdg-lv2-05{
   font-size: calc(5.2rem/2);
   font-weight: 500;
   line-height: 1.3em;
@@ -1398,9 +1398,12 @@ main.type-01 + footer {
 .box-hdg2-wrapper .hdg-lv2-03{
   color: #ea5504;
 }
-.box-hdg-wrapper .hdg-lv2-03{
+.media-post-header .hdg-lv2-03{
   color: #ea5504;
   font-weight: 500;
+}
+.media-post-01 .box-image{
+  margin-bottom: 30px !important;
 }
 .box-hdg2-wrapper .hdg-lv2-04{
   color: #ffffff;
@@ -2395,10 +2398,12 @@ xx.box-panel-01 > .panel:not(.type-02) > .box-inner .box-content .box-date [clas
 }
 
 @media only screen and (max-width: 1200px) {
-  .str-section-boxed-1200px .box-breadcrumb {
-    padding-left: 10px;
-    padding-right: 10px;
+  .str-section-boxed-1200px .box-breadcrumb,
+  .media-post-header .hdg-lv2-03{
+    padding-left: 23px !important;
+    padding-right: 23px !important;
   }
+
 }
 
 /* 通常リストモジュール */
@@ -7455,7 +7460,7 @@ padding-top:20px;
     margin-top: -47px;
   }
   .box-hdg-wrapper.type-06 {
-    min-height: 55vh;
+    min-height: 40vh;
     margin-top: -42px;
   }
   .box-hdg-wrapper.type-arrow::after {
@@ -7510,7 +7515,6 @@ padding-top:20px;
     font-size: 3.3rem;
     margin-bottom: 20px;
   }
-
   .box-hdg2-wrapper .text-lead {
     font-size: 2.0rem;
     line-height: 1.3em;

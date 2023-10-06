@@ -5024,6 +5024,12 @@ div#message-president .box-image{
   animation: innumbers-anime 16s linear -2s infinite;
 }
 
+.box-kkapinnumbers-top .box-innumber-inr .innumber-item[data-name="item11"] {
+  top: 45%;
+  animation: innumbers-anime 19s linear -3s infinite;
+  opacity: 0.3;
+}
+
 .box-kkapinnumbers-top .box-innumber-inr .innumber-item img {
   vertical-align: middle;
   max-width: none;
@@ -11031,6 +11037,9 @@ padding-top:20px;
   .box-kkapinnumbers-top .box-innumber-inr .innumber-item[data-name="item10"] img {
     width: 101.5px;
   }
+  .box-kkapinnumbers-top .box-innumber-inr .innumber-item[data-name="item11"] img {
+      width: 47px;
+  }
 }
 
 @media screen and (max-width: 768px) and (max-width: 768px) {
@@ -11963,6 +11972,12 @@ footer .footer-area-sub p.footer-copy {
 .box-innumber-top .box-innumber-inr .innumber-item[data-name="item10"] {
   top: 10%;
   animation: innumbers-anime 16s linear -2s infinite;
+}
+
+.box-innumber-top .box-innumber-inr .innumber-item[data-name="item11"] {
+  top: 45%;
+  animation: innumbers-anime 19s linear -3s infinite;
+  opacity: 0.3;
 }
 
 .box-innumber-top .box-innumber-inr .innumber-item img {

@@ -223,26 +223,28 @@ As we enter a new decade forged in the wake of a global pandemic that has disrup
 <div class="box-innumber-inr">
 <button type="button" class="innumber-item" data-name="item1"><img src="/asiapacific/images/index_img_innumbers_01_off.png" class="inactive-img" alt="4 antibody drugs released"></button>
 <button type="button" class="innumber-item" data-name="item2"><img src="/asiapacific/images/index_img_innumbers_02_off.png" class="inactive-img" alt="6 antibody drugs in pipeline"></button>
-<button type="button" class="innumber-item" data-name="item3"><img src="/asiapacific/images/index_img_innumbers_03_off.png" class="inactive-img" alt="18 drugs in development"></button>
-<button type="button" class="innumber-item" data-name="item4"><img src="/asiapacific/images/index_img_innumbers_04_off.png" class="inactive-img" alt="40 markets reach worldwide"></button>
-<button type="button" class="innumber-item" data-name="item5"><img src="/asiapacific/images/index_img_innumbers_05_off.png" class="inactive-img" alt="39% overseas sales"></button>
-<button type="button" class="innumber-item" data-name="item6"><img src="/asiapacific/images/index_img_innumbers_06_off.png" class="inactive-img" alt="40 group companies"></button>
+<button type="button" class="innumber-item" data-name="item3"><img src="/asiapacific/images/index_img_innumbers_03_off.png" class="inactive-img" alt="15 drugs in development"></button>
+<button type="button" class="innumber-item" data-name="item4"><img src="/asiapacific/images/index_img_innumbers_04_off.png" class="inactive-img" alt="44 markets reach worldwide"></button>
+<button type="button" class="innumber-item" data-name="item5"><img src="/asiapacific/images/index_img_innumbers_05_off.png" class="inactive-img" alt="61% overseas sales"></button>
+<button type="button" class="innumber-item" data-name="item6"><img src="/asiapacific/images/index_img_innumbers_06_off.png" class="inactive-img" alt="39 group companies"></button>
 <!-- <button type="button" class="innumber-item" data-name="item7"><img src="/asiapacific/images/index_img_innumbers_07_off.png" class="inactive-img" alt="37 years of innovation"></button> -->
-<button type="button" class="innumber-item" data-name="item8"><img src="/asiapacific/images/index_img_innumbers_08_off.png" class="inactive-img" alt="core operating profit 59.4 billion yen"></button>
-<button type="button" class="innumber-item" data-name="item9"><img src="/asiapacific/images/index_img_innumbers_09_off.png" class="inactive-img" alt="annual revenue 305 billion yen"></button>
-<button type="button" class="innumber-item" data-name="item10"><img src="/asiapacific/images/index_img_innumbers_10_off.png" class="inactive-img" alt="5,267 employees"></button>
+<button type="button" class="innumber-item" data-name="item8"><img src="/asiapacific/images/index_img_innumbers_08_off.png" class="inactive-img" alt="core operating profit 77 billion yen"></button>
+<button type="button" class="innumber-item" data-name="item9"><img src="/asiapacific/images/index_img_innumbers_09_off.png" class="inactive-img" alt="annual revenue 398 billion yen"></button>
+<button type="button" class="innumber-item" data-name="item10"><img src="/asiapacific/images/index_img_innumbers_10_off.png" class="inactive-img" alt="5,982 employees"></button>
+<button type="button" class="innumber-item" data-name="item11"><img src="/asiapacific/images/index_img_innumbers_11_off.png" class="inactive-img" alt="over 70-year heritage"></button>
 <div class="innumbers-active-window">
 <div class="active-number-box">
 <button type="button" class="item item1"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_01_on.png" class="active-img" alt="4 antibody drugs released"></button>
 <button type="button" class="item item2"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_02_on.png" class="active-img" alt="6 antibody drugs in pipeline"></button>
-<button type="button" class="item item3"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_03_on.png" class="active-img" alt="18 drugs in development"></button>
-<button type="button" class="item item4"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_04_on.png" class="active-img" alt="40 markets reach worldwide"></button>
-<button type="button" class="item item5"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_05_on.png" class="active-img" alt="39% overseas sales"></button>
-<button type="button" class="item item6"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_06_on.png" class="active-img" alt="40 group companies"></button>
+<button type="button" class="item item3"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_03_on.png" class="active-img" alt="15 drugs in development"></button>
+<button type="button" class="item item4"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_04_on.png" class="active-img" alt="44 markets reach worldwide"></button>
+<button type="button" class="item item5"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_05_on.png" class="active-img" alt="61% overseas sales"></button>
+<button type="button" class="item item6"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_06_on.png" class="active-img" alt="39 group companies"></button>
 <!-- <button type="button" class="item item7"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_07_on.png" class="active-img" alt="37 years of innovation"></button> -->
-<button type="button" class="item item8"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_08_on.png" class="active-img" alt="core operating profit 59.4 billion yen"></button>
-<button type="button" class="item item9"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_09_on.png" class="active-img" alt="annual revenue 305 billion yen"></button>
-<button type="button" class="item item10"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_10_on.png" class="active-img" alt="5,267 employees"></button>
+<button type="button" class="item item8"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_08_on.png" class="active-img" alt="core operating profit 77 billion yen"></button>
+<button type="button" class="item item9"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_09_on.png" class="active-img" alt="annual revenue 398 billion yen"></button>
+<button type="button" class="item item10"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_10_on.png" class="active-img" alt="5,982 employees"></button>
+<button type="button" class="item item11"><img src="/asiapacific/share/images/lazyload.gif" data-src="/asiapacific/images/index_img_innumbers_11_on.png" class="active-img" alt="over 70-year heritage"></button>
 <button type="button" class="close-btn"><span>click to close window</span></button>
 </div>
 </div>

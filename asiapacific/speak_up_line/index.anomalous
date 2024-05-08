@@ -1,0 +1,59 @@
+<partial src="../includes/header-start.html"/>
+<title>Speak Up Line - Kyowa Kirin Asia Pacific</title>
+<meta name="description" content="Kyowa Kirin Asia Pacific is dedicated towards our patient health and wellbeing worldwide. We leverage on innovative drug discovery and global commercialisation, driven by state-of-the-art antibody technologies mainly in the core therapeutic areas of Oncology, Nephrology, Immunology & Allergy, and Central Nervous System.">
+<meta property="og:title" content="Speak Up Line - Kyowa Kirin Asia Pacific">
+<meta property="og:description" content="Kyowa Kirin Asia Pacific is dedicated towards our patient health and wellbeing worldwide. We leverage on innovative drug discovery and global commercialisation, driven by state-of-the-art antibody technologies mainly in the core therapeutic areas of Oncology, Nephrology, Immunology & Allergy, and Central Nervous System.">
+<partial src="../includes/header-title.html"/>
+<link rel="canonical" href="https://www.kyowakirin.com/asiapacific/speak_up_line/index.html">
+<partial src="../includes/header-end.html"/>
+
+<div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual who-we-are-header">
+<div class="image">
+<img src="/asiapacific/images/index_bg_mainsection_01.png" alt="Who we are">
+<!-- /.image --></div>
+<!-- /.box-hdg-wrapper --></div>
+<div class="str-section-wrapper first-section">
+<div class="str-section str-section-boxed">
+<div class="box-hdg2-wrapper">
+<h2 class="hdg-lv2-02">Speak Up Line</h2>
+<p class="text-lead">Kyowa Kirin is an organization committed to the highest ethical standards with core values of integrity, innovation and teamwork (Wa). You may read our Code of Conduct on Kyowa Kirin’s <a href="https://www.kyowakirin.com/sustainability/governance/compliance/pdf/Kyowa_Kirin_Group_Code_of_Conduct.pdf" target="_blank">global website</a>.</p>
+<div class="box-text text-center">
+<br>
+<p>At Kyowa Kirin, we uphold a zero tolerance against unethical conduct and encourage speaking up on concerns or reporting of unethical behavior or action. We are dedicated to providing everyone working for or with our organization a direct channel to voice concern or reporting, should they observe any impropriety during the course of working with our organization, especially if the matter pertains to suspected breach of laws, regulations or compliance standards.</p>
+<br>
+<p>Reporting of such matters can be done through <a href="https://secure.ethicspoint.eu/domain/media/en/gui/110314/index.html" target="_blank">this “Speak Up” line</a> , hosted by EthicsPoint, our third-party provider. We encourage all who work or engage with us to report any matter of concern freely and openly at the earliest possible opportunity.</p>
+<br>
+<p>The submissions through EthicsPoint will be conveyed to us in a strictly confidential and, if preferred, anonymous manner. We are committed to addressing your concerns and taking appropriate action.</p>
+  <!-- /.box-text --></div>
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.str-section --></div>
+<!-- /.str-section-wrapper --></div>
+<div class="str-section-wrapper olc-button-section">
+<div class="box-button-olc">
+<div class="box-hdg2-wrapper">
+<a href="https://secure.ethicspoint.eu/domain/media/en/gui/110314/index.html" class="btn-olc-small-size btn-orange-grey" target="_blank"><span>Click here to access our Speak Up Line</span></a>
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.box-who-we-are-button --></div>
+<!-- /.str-section-wrapper --></div>
+
+<div class="str-section-wrapper">
+<div class="str-section str-section-boxed">
+<div class="box-hdg2-wrapper">
+<div class="box-text">
+<br>
+<br>
+<p class="text-lead">Do not use this line for the following:</p>
+<br>
+<ul class="list-01">
+  <li>For reporting by employees of any adverse events following use of Kyowa Kirin products or associated product quality complaints, please report to the Local Safety Officer.</li>
+  <li>For reporting by external parties of any adverse events following use of Kyowa Kirin products or associated product quality complaints, please see local Kyowa Kirin websites for contact details.</li>
+</ul>
+
+<!-- /.box-text --></div>
+<!-- /.box-hdg2-wrapper --></div>
+<!-- /.box-who-we-are-button --></div>
+<!-- /.str-section-wrapper --></div>
+
+<partial src="../includes/footer.html"/>
+</body>
+</html>

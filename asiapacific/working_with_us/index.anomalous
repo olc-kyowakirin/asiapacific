@@ -35,7 +35,6 @@
 <div class="str-section-wrapper workingwithus-03">
 <div class="str-section">
 <div class="box-hdg2-wrapper">
-<div class="box-layout-image layout-right content-valign">
 <div class="box-content">
 <h2 class="hdg-lv2-02">Living the core values</h2>
 <h2 class="hdg-lv2-04">Teamwork/Wa*</h2>
@@ -71,10 +70,6 @@
 <!-- image --></div>
 <!-- /.box-text --></div>
 <!-- content --></div>
-<div class="box-image">
-<img src="images/index_img_job_02.jpg" alt="">
-<!-- image --></div>
-<!-- /.box-layout-image --></div>
 <!-- /.box-hdg2-wrapper --></div>
 <!-- /.str-section --></div>
 <!-- /.str-section-wrapper --></div>

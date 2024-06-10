@@ -7,8 +7,6 @@
 <link rel="canonical" href="https://www.kyowakirin.com/asiapacific/media/index.html">
 <style> .header, .footer  {  background-color: #f6f6f6; } </style>
 <partial src="../includes/header-end.html"/>
-
-
 <div class="box-hdg-wrapper type-04 kkc-anime_load_other-mainvisual media-header">
 <div class="image">
 <img src="/asiapacific/images/index_bg_mainsection_01.png" alt="">
@@ -28,6 +26,16 @@
 <h2 class="hdg-lv2-03">Asia Pacific News</h2>
 <!-- /.box-hdg2-wrapper --></div>
 <div class="box-panel-01 col3 sp-col1">
+<a href="/asiapacific/media/2024/05/kyowa_kirin_supports_hualien_earthquake_relief_efforts/index.html" class="panel"  >
+<div class="box-inner">
+<div class="box-content">
+<h3 class="hdg-lv2-05">Kyowa Kirin supports Hualien earthquake relief efforts</h3>
+<div class="box-date">
+<p><em>May 2024</em><img src="/asiapacific/share/images/icon_link_blank_07.png" alt="Open in new window" class="icon-blank"></p>
+</div>
+<!-- /.box-content --></div>
+<!-- /.box-inner--></div>
+<!-- /.panel --></a>
 <a target="_blank" href="/asiapacific/media/2024/05/ctcl_global_care_collaborative_launch_press_release_kkap.pdf" class="panel"  >
 <div class="box-inner">
 <div class="box-content">
@@ -35,9 +43,9 @@
 <div class="box-date">
 <p><em>May 2024</em><img src="/asiapacific/share/images/icon_pdf_blank_05.png" alt="PDF file" class="icon-pdf"></p>
 </div>
-  <!-- /.box-content --></div>
-  <!-- /.box-inner--></div>
-  <!-- /.panel --></a>
+<!-- /.box-content --></div>
+<!-- /.box-inner--></div>
+<!-- /.panel --></a>
 <a href="/asiapacific/media/2023/02/kyowa_kirin_china_certified_as_a_top_employer_for_2023/index.html" class="panel"  >
 <div class="box-inner">
 <div class="box-content">
@@ -48,6 +56,8 @@
 <!-- /.box-content --></div>
 <!-- /.box-inner--></div>
 <!-- /.panel --></a>
+<!-- /.box-panel-01 --></div>
+<div class="box-panel-01 col3 sp-col1">
 <a target="_blank" href="https://www.kyowakirin.com/media_center/news_releases/2021/pdf/e20210601_01.pdf" class="panel"  >
 <div class="box-inner">
 <div class="box-content">
@@ -58,8 +68,6 @@
 <!-- /.box-content --></div>
 <!-- /.box-inner--></div>
 <!-- /.panel --></a>
-<!-- /.box-panel-01 --></div>
-<div class="box-panel-01 col3 sp-col1">
 <a target="_blank" href="https://www.kyowa-kirin.com.cn/en/kyowa-kirin-and-winhealth-pharma-group-establishes-strategic-cooperation-on-nesp/" class="panel"  >
 <div class="box-inner">
 <div class="box-content">
@@ -80,6 +88,8 @@
 <!-- /.box-content --></div>
 <!-- /.box-inner--></div>
 <!-- /.panel --></a>
+<!-- /.box-panel-01 --></div>
+<div class="box-panel-01 col3 sp-col1">
 <a target="_blank" href="/asiapacific/media/2020/12/helsinn_kyowa_agreement_valchlor.pdf" class="panel sizeAdded">
 <div class="box-inner">
 <div class="box-content">

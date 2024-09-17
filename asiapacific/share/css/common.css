@@ -1075,6 +1075,7 @@ ol.list-showlist > li ol{
 .footer .footer-link {
   display: flex;
   flex-wrap: wrap;
+  text-align: center;
 }
 
 .footer .footer-link > li {
